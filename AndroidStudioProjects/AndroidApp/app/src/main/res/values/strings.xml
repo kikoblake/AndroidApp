@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">AndroidApp</string>
+    <string name="app_name">Decide With Friends</string>
+    <string name="facebook_app_id">247961928870733</string>
     <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="stuff">facebook_app_id</string>
 </resources>
